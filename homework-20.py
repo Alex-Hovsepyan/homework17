@@ -6,5 +6,5 @@ def func():
             if i.isdigit():
                 summ += int(float(i))
     with open('answer.txt', 'a') as file2:
-        file2.write('gf')
+        file2.write(str(summ))
 func()

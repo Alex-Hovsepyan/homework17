@@ -1,0 +1,6 @@
+['Basil', 'test@test.ru', '27']
+['Gennady', 'ttdababmt@gmail.com', '69']
+['Olga', 'ysbxur@gmail.com', '20']
+['Basil', 'test@test.ru', '27']
+['Gennady', 'ttdababmt@gmail.com', '69']
+['Olga', 'ysbxur@gmail.com', '20']
